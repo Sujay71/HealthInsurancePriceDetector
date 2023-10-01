@@ -8,4 +8,5 @@ Python libraries used:
 3)Matplotlib
 4)scikit learn
 I will be working more on building the GUI(on tkinter) will upload the completed file soon.
+Data was taken from kaggle
 
